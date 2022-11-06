@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgb(60, 60, 219);
+    border-style: solid;
+    border-color: powderblue;
+}
+h1{
+    color: beige;
+    background-color: rgb(49, 27, 69);
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+}
+h5{
+    color: aqua;
+}
